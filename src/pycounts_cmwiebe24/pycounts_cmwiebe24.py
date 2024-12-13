@@ -2,7 +2,7 @@ from collections import Counter
 from string import punctuation
 
 
-def load_text(input_file) -> str:
+def load_text(input_file):
     """Load text from a text file and return as a string.
 
     Parameters
